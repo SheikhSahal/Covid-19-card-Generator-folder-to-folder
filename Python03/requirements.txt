@@ -1,0 +1,11 @@
+flask
+pdfminer
+pdfminer3k
+pandas
+fitz
+frontend
+tools
+fpdf
+Pillow
+PyPDF2
+PyMuPDF==1.17.7 
