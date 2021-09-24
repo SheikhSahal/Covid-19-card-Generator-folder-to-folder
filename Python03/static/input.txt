@@ -1,14 +1,16 @@
-17-09-2021
+08-09-2021
 
-CF3660835516
+GD9601994276
 
-Sarwar Raza
+Iqra Furqan
 
-31-01-2002
+23-01-1992
 
 Pakistan
 
-42301-3003129-3
+42301-4627295-8
+
+HJ8962951
 
 Vaccine Name
 
@@ -22,9 +24,11 @@ Health Center
 
 Manufacturer & Batch No
 
-Sinopharm
+Spikevax - Moderna Covid-19
+Vaccine
 
-Sinopharm
+Spikevax - Moderna Covid-19
+Vaccine
 
 2
 
@@ -34,20 +38,17 @@ Sinopharm
 
 2
 
-10-08-2021
+05-08-2021
 
-EDHI CENTER TOWER
+Khaliqdina Hall
 
-14-09-2021
+Moderna 004D21A
 
-EDHI CENTER TOWER
+08-09-2021
 
-Sinopharm, China National
-Pharmaceutical Group Co., Ltd
-202107B1635
+Quaid e Azam academy for
+educational development
 
-Sinopharm, China National
-Pharmaceutical Group Co., Ltd
-2021061127
+Moderna 006D21A
 
 
